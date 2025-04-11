@@ -9,6 +9,8 @@ git add <file>
 git commit -m "message"
 clear
 git log
+git branch
+git checkout -b <branch>
 ```
 Common Commands
 ```
