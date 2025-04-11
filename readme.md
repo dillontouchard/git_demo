@@ -14,6 +14,7 @@ git checkout -b <branch_name>
 git merge <branch_name>
 git tag -a v1.0.0 -m "Super early alpha"
 git push origin master --tags
+git reset --hard <id of commit>
 ```
 Common Commands
 ```
