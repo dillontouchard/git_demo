@@ -25,6 +25,7 @@ git add -A      # Add all files
     - ```git add .gitignore```
 3. Commit the changes
     - ```git commit -m "Initial Commit"```
+    - ```git tag -a <tag_name> -m "message"```
 4. Add the remote repository
     - ```git remote add origin <url>```
 5. Push the changes to the remote repository
