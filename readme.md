@@ -16,13 +16,13 @@ git add -A      # Add all files
 ```
 ## First Time Setup Process
 1. Create a new repository on Github
-```git init```
+    - ```git init```
 2. Create and add an ignore file
-```touch .gitignore```
-```git add .gitignore```
+    - ```touch .gitignore```
+    - ```git add .gitignore```
 3. Commit the changes
-```git commit -m "Initial Commit"```
+    - ```git commit -m "Initial Commit"```
 4. Add the remote repository
-```git remote add origin <url>```
+    - ```git remote add origin <url>```
 5. Push the changes to the remote repository
-```git push origin <branch_name>```
+    - ```git push origin <branch_name>```
